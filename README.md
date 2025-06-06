@@ -1,7 +1,7 @@
 # 💼 Personal Resume Website – Shivas A.
 
 A modern and  personal resume website made using **only HTML, CSS, and JavaScript**.  
-This website showcases my education, projects, skills, certifications, and contact information – designed as a live version of my resume, 
+This website showcases my education, projects, skills, certifications, and contact information – designed as a live version of my resume. 
 ---
 
 ## 🛠 Tech Stack
@@ -18,7 +18,7 @@ This website showcases my education, projects, skills, certifications, and conta
 - 🌗 Dark/Light mode toggle
 - 📄 Sections: About Me, Education, Skills, Certifications, and Contact
 - ⚡ Fast loading with zero external frameworks
-- 🌐 Easy to customize for any developer or student resume
+- 🌐 Easy to customise for any developer or student resume
 
 ---
 
@@ -28,15 +28,12 @@ This website showcases my education, projects, skills, certifications, and conta
 
 ---
 
-## 📁 Folder Structure
-
-
-resume-website/
-├── index.html                # Main HTML file (your resume/portfolio)
-├── assets/                   # Folder for styling and scripts
-│   ├── css/
-│   │   └── main.css          # Stylesheet (layout, themes, responsive design)
-│   └── js/
-│       └── theme.js          # JavaScript for dark/light theme toggle
-└── README.md                 
+📁 resume-website/
+├── 📄 index.html         # Main HTML file (your resume/portfolio)
+├── 📁 assets/            # Styling and scripts
+│   ├── 📁 css/
+│   │   └── 🎨 main.css    # Stylesheet (layout, themes, responsive design)
+│   └── 📁 js/
+│       └── 🌗 theme.js   # JavaScript for dark/light theme toggle
+└── 📄 README.md          # Project documentation
 
